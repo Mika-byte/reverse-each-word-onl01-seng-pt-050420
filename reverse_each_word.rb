@@ -1,5 +1,7 @@
-word = ["Hello there, and how are you?"]
-def reverse_each_word(word)
-word.reverse do |word|
-   end
+def reverse_each_word(words)
+new_array[]
+words.reverse do |word|
+new_array << word
+end
+return new_array
 end
