@@ -5,3 +5,4 @@ def reverse_each_word(words)
   end
   return new_array
 end
+reverse word
