@@ -7,7 +7,4 @@ def reverse_each_word(words)
 end
 
 
-def reverse_word(word)
-  split_word = word.split("")
-end
-puts reverse_word("Hello there, and how are you?")
+def reverse_word(string
